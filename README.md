@@ -1,0 +1,2 @@
+# inspiration-generator
+Capstone project
