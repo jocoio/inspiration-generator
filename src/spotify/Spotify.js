@@ -12,8 +12,8 @@ class Spotify extends Component {
   getSongs() {
     var request = require('request'); // "Request" library
 
-    var client_id = '4ae70bf05ec14896978f65af4846e946'; // Your client id
-    var client_secret = '703304f95e7b4bc594110b686e8f7ab6'; // Your secret
+    var client_id = ''; // Your client id
+    var client_secret = ''; // Your secret
 
     // your application requests authorization
     var authOptions = {
